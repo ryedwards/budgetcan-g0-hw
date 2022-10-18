@@ -1,0 +1,8 @@
+/*-backups/
+/gerbers/
+fp-info-cache
+fp-lib-table
+sym-lib-table
+*-cache.lib
+*.kicad_prl
+*.xml
