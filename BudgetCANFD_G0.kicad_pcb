@@ -3283,7 +3283,7 @@
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digi-Key_PN" "1276-1002-1-ND")
-    (property "LCSC Part #" "C41851")
+    (property "LCSC Part #" "C1525")
     (property "Manufacturer_Part_Number" "")
     (property "Sheetfile" "BudgetCANFD_G0.kicad_sch")
     (property "Sheetname" "")
